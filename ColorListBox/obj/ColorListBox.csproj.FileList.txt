@@ -1,0 +1,7 @@
+bin\Debug\ColorListBox.exe
+bin\Debug\ColorListBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ColorListBox.Form1.resources
+obj\Debug\ColorListBox.csproj.GenerateResource.Cache
+obj\Debug\ColorListBox.exe
+obj\Debug\ColorListBox.pdb

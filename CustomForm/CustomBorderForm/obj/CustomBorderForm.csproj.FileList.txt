@@ -1,0 +1,11 @@
+.\bin\Debug\WMP11.fsl
+.\bin\Debug\CustomBorderForm.exe.config
+.\bin\Debug\CustomBorderForm.exe
+.\bin\Debug\CustomBorderForm.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Kobush.Windows.Forms.DemoForm.resources
+obj\Debug\Kobush.Windows.Forms.FormStyleEditorControl.resources
+obj\Debug\Kobush.Windows.Forms.Properties.Resources.resources
+obj\Debug\CustomBorderForm.csproj.GenerateResource.Cache
+obj\Debug\CustomBorderForm.exe
+obj\Debug\CustomBorderForm.pdb

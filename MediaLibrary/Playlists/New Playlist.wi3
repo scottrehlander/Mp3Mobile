@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlaylistElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlaylistName>Techno Favorites</PlaylistName>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\Astral Projection\Astral Projection - Ten\Astral Projection - Ten - 04 - power gen (space cat remix).mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\Astral Projection\Astral Projection - Ten\Astral Projection - Ten - 01 - chaos (bizzare contact remix).mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\Astral Projection\Astral Projection - Ten\Astral Projection - Ten - 02 - nilaya (melicia remix).mp3</Filename>
+  </MediaObjectElement>
+</PlaylistElement>

@@ -1,0 +1,5 @@
+C:\!mypage\Mp3Mobile\AdvancedControls\AdvancedControls\bin\Debug\AdvancedControls.dll
+C:\!mypage\Mp3Mobile\AdvancedControls\AdvancedControls\bin\Debug\AdvancedControls.pdb
+C:\!mypage\Mp3Mobile\AdvancedControls\AdvancedControls\obj\Debug\ResolveAssemblyReference.cache
+C:\!mypage\Mp3Mobile\AdvancedControls\AdvancedControls\obj\Debug\AdvancedControls.dll
+C:\!mypage\Mp3Mobile\AdvancedControls\AdvancedControls\obj\Debug\AdvancedControls.pdb

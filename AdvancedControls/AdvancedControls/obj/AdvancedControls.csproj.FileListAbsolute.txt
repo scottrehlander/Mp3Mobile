@@ -1,0 +1,5 @@
+G:\FayoumProject\AdvancedControls\bin\Debug\AdvancedControls.dll
+G:\FayoumProject\AdvancedControls\bin\Debug\AdvancedControls.pdb
+G:\FayoumProject\AdvancedControls\obj\Debug\ResolveAssemblyReference.cache
+G:\FayoumProject\AdvancedControls\obj\Debug\AdvancedControls.dll
+G:\FayoumProject\AdvancedControls\obj\Debug\AdvancedControls.pdb

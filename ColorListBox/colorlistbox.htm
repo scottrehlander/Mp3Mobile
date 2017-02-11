@@ -1,0 +1,90 @@
+<HTML>
+
+<HEAD>
+<META http-equiv="Content-Language" content="en-us">
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META name="GENERATOR" content="Microsoft FrontPage 4.0">
+<META name="ProgId" content="FrontPage.Editor.Document">
+<TITLE>New Page 1</TITLE>
+</HEAD>
+
+<BODY>
+
+<BR>Author: Sanjay Ahuja
+<BR>Date: 5/7/2002
+<BR>User Level: Intermediate
+<BR>
+<BR>Source code: <A href="ColorListBox.zip"> ColorListBox.zip</A>
+<BR>
+<BR><B>Overview:</B> In this article we will see how to write owner drawn ListBox
+control. Typically, Windows handles the task of drawing the items to display in
+the <FONT color="#0000FF">ListBox</FONT>. You can use the <FONT color="#0000FF"> DrawMode</FONT>
+property and handle the <FONT color="#0000FF"> MeasureItem</FONT>
+and <FONT color="#0000FF"> DrawItem</FONT>
+events to provide the ability to override the automatic drawing that Windows
+provides and draw the items yourself. You can use owner-drawn <FONT color="#0000FF">ListBox</FONT>
+controls to display variable-height items, images, or a different color or font
+for the text of each item in the list. 
+<BR>
+<BR><B>Description: </B>We start by creating a Windows Application. Add <FONT color="#0000FF">ListBox</FONT>
+to the form and set its <FONT color="#0000FF">DrawMode</FONT> property to <FONT color="#0000FF">OwnerDrawVariable</FONT>.
+Alternatively you can add following line to <FONT color="#0000FF">InitializeComponent</FONT><FONT color="#0000FF">()</FONT>
+function of your form, 
+<BR>
+<BR><FONT color="#008000">//lstColor is ListBox control</FONT> 
+<BR>&nbsp;<FONT COLOR="#0000ff">this</FONT>.lstColor.DrawMode =
+System.Windows.Forms.DrawMode.OwnerDrawVariable; 
+<BR>
+
+<BR>Next add following lines below above line 
+<BR>
+<BR><FONT color="#008000">//tell windows we are interested in drawing items in
+ListBox on our own</FONT> 
+<BR><FONT COLOR="#0000ff">this</FONT>.lstColor.DrawItem += <FONT COLOR="#0000ff">new</FONT>
+DrawItemEventHandler(<FONT COLOR="#0000ff">this</FONT>.DrawItemHandler);
+<BR><FONT color="#008000">//tell windows we are interested in providing&nbsp;
+item size</FONT> 
+<BR><FONT COLOR="#0000ff">this</FONT>.lstColor.MeasureItem += <FONT COLOR="#0000ff">new</FONT>
+System.Windows.Forms.MeasureItemEventHandler(<FONT COLOR="#0000ff">this</FONT>.MeasureItemHandler);
+<BR>
+<BR>&nbsp;By doing this, windows will send us DrawItem and MeasureItem event for
+each item added to ListBox. 
+<BR>
+<BR>Next, add handlers for these events 
+<BR>
+<BR><FONT COLOR="#0000ff">private</FONT> <FONT COLOR="#0000ff">void</FONT>
+DrawItemHandler(<FONT COLOR="#0000ff">object</FONT> sender, DrawItemEventArgs e)
+<BR>{
+<BR>&nbsp;&nbsp;&nbsp; e.DrawBackground();
+<BR>&nbsp;&nbsp;&nbsp; e.DrawFocusRectangle();
+<BR>&nbsp;&nbsp;&nbsp; e.Graphics.DrawString(data[e.Index],<FONT COLOR="#0000ff">new</FONT>
+Font(FontFamily.GenericSansSerif, 14, FontStyle.Bold),<FONT COLOR="#0000ff">new</FONT>
+SolidBrush(color[e.Index]),e.Bounds);
+<FONT SIZE="2">
+<BR>&nbsp;
+</FONT>
+<BR>}
+<BR>
+<BR><FONT COLOR="#0000ff">private</FONT> <FONT COLOR="#0000ff">void</FONT>
+MeasureItemHandler(<FONT COLOR="#0000ff">object</FONT> sender,
+MeasureItemEventArgs e)
+<BR>{
+<BR>&nbsp;&nbsp;&nbsp; e.ItemHeight= 22;
+<BR>}
+<BR>
+<BR>In above code date is array that holds items to be inserted and color is
+array of class Color 
+<BR>Thats it. We are done!!! 
+<BR>&nbsp; 
+<BR>
+<BR>Send me your comments at <A href="mailto:lparam@hotmail.com">lparam@hotmail.com</A> 
+<BR>
+<BR>
+<BR>About Author: Sanjay Ahuja is a Bachelor of Engineer and done his CDAC from
+Pune,India. He is currently working as a consultant for Verizon 
+<BR>&nbsp;
+<P style="line-height: 100%">&nbsp;
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,10 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\MediaMobileUtils.dll
+bin\Release\MediaMobileUtils.pdb
+obj\Release\MediaMobileUtils.dll
+obj\Release\MediaMobileUtils.pdb
+bin\Debug\MediaMobileUtils.dll
+bin\Debug\MediaMobileUtils.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MediaMobileUtils.dll
+obj\Debug\MediaMobileUtils.pdb

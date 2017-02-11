@@ -1,0 +1,12 @@
+bin\Debug\Properties\Settings.Designer.cs
+bin\Debug\Properties\Settings.settings
+bin\Debug\LizardEditor.dll
+bin\Debug\LizardEditor.pdb
+bin\Debug\Lizard.dll
+bin\Debug\Lizard.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LizardEditor.LizardSkinEditorControl.resources
+obj\Debug\LizardEditor.Properties.Resources.resources
+obj\Debug\LizardEditor.csproj.GenerateResource.Cache
+obj\Debug\LizardEditor.dll
+obj\Debug\LizardEditor.pdb

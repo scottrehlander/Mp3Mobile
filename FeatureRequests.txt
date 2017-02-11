@@ -1,0 +1,2 @@
+Keep track of favorites.
+Learn favorited genres and artists.

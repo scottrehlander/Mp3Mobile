@@ -1,0 +1,8 @@
+<MediaMobileConfig>
+	<KnownExtensionsList>
+		<KnownExtension>
+			<Extension>mp3</Extension>
+			<MediaDescription>MPEG Layer-3 Audio</MediaDescription>
+		</KnownExtension>
+	</KnownExtensionsList>
+</MediaMobileConfig>

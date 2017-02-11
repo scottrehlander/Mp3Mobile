@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Kobush.Windows.Forms.FormStyleManager">
+    <Position X="1.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>FormStyle.cs</FileName>
+      <HashCode>IEAAgIAAAAAABAAAABAAQAAACBAAAAAEAAAgACAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="AddNewStyle" Hidden="true" />
+      <Method Name="DeleteStyle" Hidden="true" />
+      <Method Name="GetDefaultStyle" Hidden="true" />
+      <Method Name="GetStyle" Hidden="true" />
+      <Method Name="GetStyleNames" Hidden="true" />
+      <Field Name="globalStyleLibrary" Hidden="true" />
+      <Method Name="LoadHelper" Hidden="true" />
+      <Method Name="OnStyleChanged" Hidden="true" />
+      <Field Name="StyleChanged" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="Kobush.Windows.Forms.StyleObject">
+    <Position X="5.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <FileName>FormStyle.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAIAACQAAQgAAAAAAAAAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="_parent" Hidden="true" />
+      <Method Name="OnChildPropertyChanged" Hidden="true" />
+      <Method Name="OnPropertyChanged" Hidden="true" />
+    </Members>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kobush.Windows.Forms.FormStyleLibrary">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormStyle.cs</FileName>
+      <HashCode>AAAAgIAEAAAAIAAAAAAEAAAAAAgAAAAABAAAAAgAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Styles" />
+    </ShowAsCollectionAssociation>
+    <Members>
+      <Field Name="_defaultStyleName" Hidden="true" />
+      <Field Name="_styles" Hidden="true" />
+      <Field Name="_version" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="Kobush.Windows.Forms.FormStyle">
+    <Position X="3" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>FormStyle.cs</FileName>
+      <HashCode>BAACaKAEAQQGQQAAACAAAIQAQACABgAEKAgyIDCAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CloseButton" />
+      <Property Name="HelpButton" />
+      <Property Name="MaximizeButton" />
+      <Property Name="MinimizeButton" />
+      <Property Name="NormalState" />
+    </ShowAsAssociation>
+    <Members>
+      <Field Name="_clientAreaPadding" Hidden="true" />
+      <Field Name="_closeButton" Hidden="true" />
+      <Field Name="_helpButton" Hidden="true" />
+      <Field Name="_iconPadding" Hidden="true" />
+      <Field Name="_maximizeButton" Hidden="true" />
+      <Field Name="_minimizeButton" Hidden="true" />
+      <Field Name="_name" Hidden="true" />
+      <Field Name="_normalState" Hidden="true" />
+      <Field Name="_restoreButton" Hidden="true" />
+      <Field Name="_sizingBorderWidth" Hidden="true" />
+      <Field Name="_sizingCornerOffset" Hidden="true" />
+      <Field Name="_titleColor" Hidden="true" />
+      <Field Name="_titleFont" Hidden="true" />
+      <Field Name="_titlePadding" Hidden="true" />
+      <Field Name="_titleShadowColor" Hidden="true" />
+      <Property Name="ClientAreaPadding_XmlSurrogate" Hidden="true" />
+      <Method Name="FormStyle" Hidden="true" />
+      <Property Name="IconPadding_XmlSurrogate" Hidden="true" />
+      <Property Name="TitleColor_XmlSurrogate" Hidden="true" />
+      <Property Name="TitleFont_XmlSurrogate" Hidden="true" />
+      <Property Name="TitlePadding_XmlSurrogate" Hidden="true" />
+      <Property Name="TitleShadowColor_XmlSurrogate" Hidden="true" />
+    </Members>
+    <InheritanceLine Type="Kobush.Windows.Forms.StyleObject" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="2.527" />
+        <Point X="6.25" Y="3.125" />
+        <Point X="4.125" Y="3.125" />
+        <Point X="4.125" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+  </Class>
+  <Class Name="Kobush.Windows.Forms.FormButtonStyle">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormStyle.cs</FileName>
+      <HashCode>AIgAAAAAAgAAiAAAIAAAAEAAAAEABAEAGAAAAAIAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ActiveState" />
+      <Property Name="DisabledState" />
+      <Property Name="HoverState" />
+      <Property Name="NormalState" />
+    </ShowAsAssociation>
+    <Members>
+      <Field Name="_activeState" Hidden="true" />
+      <Field Name="_disabledState" Hidden="true" />
+      <Field Name="_hoverState" Hidden="true" />
+      <Field Name="_margin" Hidden="true" />
+      <Field Name="_normalState" Hidden="true" />
+      <Field Name="_size" Hidden="true" />
+      <Method Name="FormButtonStyle" Hidden="true" />
+      <Property Name="Margin_XmlSurrogate" Hidden="true" />
+      <Property Name="Size_XmlSurrogate" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="Kobush.Windows.Forms.SerializableImage">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormStyle.cs</FileName>
+      <HashCode>ABAIAAAIAAAAAAAEAAAAAAAAAAAAQBAAgAAAAEQAAAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="_image" Hidden="true" />
+      <Field Name="_sizeMode" Hidden="true" />
+      <Field Name="_stretchMargins" Hidden="true" />
+      <Method Name="DrawImage" Hidden="true" />
+      <Property Name="Image_XmlSurrogate" Hidden="true" />
+      <Property Name="StretchMargins_XmlSurrogate" Hidden="true" />
+    </Members>
+  </Class>
+</ClassDiagram>

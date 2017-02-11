@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlaylistElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlaylistName>De La Soul</PlaylistName>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\09 Eye Know.mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\10 Take It Off.mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\11 A Little Bit of Soap.mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\12 Tread Water.mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\13 Potholes in My Lawn.mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\14 Say No Go.mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\15 Do as De La Does.mp3</Filename>
+  </MediaObjectElement>
+  <EmbeddedPlaylistElement>
+    <PlaylistFilename>C:\!mypage\Mp3Mobile\MediaLibrary\Playlists\Favorites.wi3</PlaylistFilename>
+  </EmbeddedPlaylistElement>
+</PlaylistElement>

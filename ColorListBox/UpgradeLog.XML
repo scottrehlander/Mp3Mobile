@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ColorListBox">
+</Property><Property Name="Solution File" Value="C:\!mypage\Mp3Mobile\ColorListBox\ColorListBox.sln">
+</Property><Property Name="Date" Value="Tuesday, April 29, 2008">
+</Property><Property Name="Time" Value="18:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ColorListBox.sln" Description="File successfully backed up as C:\!mypage\Mp3Mobile\ColorListBox\Backup\ColorListBox.sln">
+</Event><Event ErrorLevel="0" Project="ColorListBox" Source="ColorListBox.csproj" Description="Project file successfully backed up as C:\!mypage\Mp3Mobile\ColorListBox\Backup\ColorListBox.csproj">
+</Event><Event ErrorLevel="0" Project="ColorListBox" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\ColorListBox\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ColorListBox" Source="Form1.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\ColorListBox\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ColorListBox" Source="App.ico" Description="File successfully backed up as C:\!mypage\Mp3Mobile\ColorListBox\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ColorListBox" Source="Form1.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\ColorListBox\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ColorListBox" Source="ColorListBox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ColorListBox" Source="ColorListBox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ColorListBox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ColorListBox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ColorListBox" Source="ColorListBox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

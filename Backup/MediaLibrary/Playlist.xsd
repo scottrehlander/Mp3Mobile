@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="Playlist" xmlns:xs="http://www.w3.org/2001/XMLSchema" >
+
+  <xs:element name="PlaylistElement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PlaylistName" type="xs:string" minOccurs="1" maxOccurs="1" />
+        <xs:element ref="MediaObjectElement" maxOccurs="unbounded" />
+        <xs:element ref="EmbeddedPlaylistElement" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="MediaObjectElement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Filename" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="EmbeddedPlaylistElement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PlaylistFilename" type="xs:string" minOccurs="1" maxOccurs="1" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

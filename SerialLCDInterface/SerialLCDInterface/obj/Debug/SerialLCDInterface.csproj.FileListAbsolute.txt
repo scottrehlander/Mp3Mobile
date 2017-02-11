@@ -1,0 +1,9 @@
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\bin\Debug\SerialLCDInterface.exe
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\bin\Debug\SerialLCDInterface.pdb
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\obj\Debug\SerialLCDInterface.Properties.Resources.resources
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\obj\Debug\SerialLCDInterface.SimulationGUI.resources
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\obj\Debug\SerialLCDInterface.TestForm.resources
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\obj\Debug\SerialLCDInterface.csproj.GenerateResource.Cache
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\obj\Debug\SerialLCDInterface.exe
+C:\!mypage\Mp3Mobile\SerialLCDInterface\SerialLCDInterface\obj\Debug\SerialLCDInterface.pdb

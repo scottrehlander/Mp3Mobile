@@ -1,0 +1,184 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0B6346B8-3A22-4AA2-8280-7749035E085B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MediaMobile</RootNamespace>
+    <AssemblyName>Mp3Mobile</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMover.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormMover.Designer.cs">
+      <DependentUpon>FormMover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadForm.Designer.cs">
+      <DependentUpon>LoadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuManager.cs" />
+    <Compile Include="MediaViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MediaViewer.Designer.cs">
+      <DependentUpon>MediaViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test Project\DirectoryPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test Project\DirectoryPlayer.Designer.cs">
+      <DependentUpon>DirectoryPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test Project\MediaMobileTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test Project\MediaMobileTest.Designer.cs">
+      <DependentUpon>MediaMobileTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mp3Player.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mp3Player.Designer.cs">
+      <DependentUpon>Mp3Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test Project\OptionsFormTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test Project\OptionsFormTest.Designer.cs">
+      <DependentUpon>OptionsFormTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test Project\PlaylistEditorTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test Project\PlaylistEditorTest.Designer.cs">
+      <DependentUpon>PlaylistEditorTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormMover.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormMover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MediaViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test Project\DirectoryPlayer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DirectoryPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test Project\MediaMobileTest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MediaMobileTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mp3Player.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Mp3Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test Project\OptionsFormTest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OptionsFormTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test Project\PlaylistEditorTest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PlaylistEditorTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="PositionDefinition.ini" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\SoftDev-PreSVN\Drivers\Nexus\SerialLCDInterface\SerialLCDInterface\SerialLCDInterface.csproj">
+      <Project>{15791388-F906-4016-890D-7682AD1C6B34}</Project>
+      <Name>SerialLCDInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AdvancedControls\AdvancedControls\AdvancedControls.csproj">
+      <Project>{5DA78496-9B59-4B41-A9EE-EBC77A384DC3}</Project>
+      <Name>AdvancedControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaLibrary\MediaLibrary.csproj">
+      <Project>{871357D7-8ACE-420C-8F5B-4A64EACAE9E4}</Project>
+      <Name>MediaLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaMobileUtils\MediaMobileUtils.csproj">
+      <Project>{9C8CADD8-505D-452C-8D57-2C4E08057850}</Project>
+      <Name>MediaMobileUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transBG.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,17 @@
+bin\Debug\CustomCaption.exe.config
+bin\Debug\Properties\Settings.Designer.cs
+bin\Debug\Properties\Settings.settings
+bin\Debug\CustomCaption.exe
+bin\Debug\CustomCaption.pdb
+bin\Debug\Demo.exe
+bin\Debug\Lizard.dll
+bin\Debug\LizardEditor.dll
+bin\Debug\Demo.pdb
+bin\Debug\Lizard.pdb
+bin\Debug\LizardEditor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Samples.CustomCaption.DemoForm.resources
+obj\Debug\CustomCaption.Properties.Resources.resources
+obj\Debug\CustomCaption.csproj.GenerateResource.Cache
+obj\Debug\CustomCaption.exe
+obj\Debug\CustomCaption.pdb

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlaylistElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlaylistName>AFI</PlaylistName>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\AFI-Sing The Sorrow(Darkside_RG)\14 - Now The World.mp3</Filename>
+  </MediaObjectElement>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\AFI-Sing The Sorrow(Darkside_RG)\01 - Miseria Cantare- The Beginning.mp3</Filename>
+  </MediaObjectElement>
+</PlaylistElement>

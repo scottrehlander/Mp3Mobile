@@ -1,0 +1,10 @@
+.\bin\Debug\Properties\Settings.Designer.cs
+.\bin\Debug\Properties\Settings.settings
+.\bin\Debug\Lizard.dll
+.\bin\Debug\Lizard.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Lizard.Windows.Skin.Update_1_0_to_1_1.xslt
+obj\Debug\Lizard.Properties.Resources.resources
+obj\Debug\Lizard.csproj.GenerateResource.Cache
+obj\Debug\Lizard.dll
+obj\Debug\Lizard.pdb

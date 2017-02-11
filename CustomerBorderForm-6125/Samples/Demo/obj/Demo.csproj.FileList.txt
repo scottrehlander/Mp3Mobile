@@ -1,0 +1,14 @@
+bin\Debug\Properties\Settings.Designer.cs
+bin\Debug\Properties\Settings.settings
+bin\Debug\Demo.exe
+bin\Debug\Demo.pdb
+bin\Debug\Lizard.dll
+bin\Debug\LizardEditor.dll
+bin\Debug\Lizard.pdb
+bin\Debug\LizardEditor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Samples.Demo.DemoForm.resources
+obj\Debug\Samples.Demo.Properties.Resources.resources
+obj\Debug\Demo.csproj.GenerateResource.Cache
+obj\Debug\Demo.exe
+obj\Debug\Demo.pdb

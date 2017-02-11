@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Mp3Mobile">
+</Property><Property Name="Solution File" Value="C:\!mypage\Mp3Mobile\Mp3Mobile.sln">
+</Property><Property Name="User Options File" Value="C:\!mypage\Mp3Mobile\Mp3Mobile.suo">
+</Property><Property Name="Date" Value="Wednesday, May 28, 2008">
+</Property><Property Name="Time" Value="18:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Mp3Mobile.sln" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Mp3Mobile.suo" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile.suo">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\MediaMobile.csproj" Description="Project file successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\MediaMobile.csproj">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\FormMover.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\FormMover.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\FormMover.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\FormMover.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\LoadForm.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\LoadForm.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\LoadForm.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\LoadForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\MenuManager.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\MenuManager.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\MediaViewer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\MediaViewer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\MediaViewer.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\MediaViewer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\DirectoryPlayer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\DirectoryPlayer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\DirectoryPlayer.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\DirectoryPlayer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\MediaMobileTest.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\MediaMobileTest.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\MediaMobileTest.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\MediaMobileTest.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Mp3Player.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Mp3Player.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Mp3Player.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Mp3Player.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\OptionsFormTest.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\OptionsFormTest.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\OptionsFormTest.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\OptionsFormTest.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\PlaylistEditorTest.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\PlaylistEditorTest.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\PlaylistEditorTest.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\PlaylistEditorTest.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Program.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Program.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\app.config" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\app.config">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\PositionDefinition.ini" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\PositionDefinition.ini">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Properties\Settings.settings" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Resources\transBG.png" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Resources\transBG.png">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\FormMover.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\FormMover.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\LoadForm.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\LoadForm.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\MediaViewer.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\MediaViewer.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\DirectoryPlayer.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\DirectoryPlayer.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\MediaMobileTest.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\MediaMobileTest.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Mp3Player.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Mp3Player.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\OptionsFormTest.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\OptionsFormTest.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Test Project\PlaylistEditorTest.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Test Project\PlaylistEditorTest.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\Properties\Resources.resx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\Mp3Mobile\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\MediaMobile.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MediaMobile" Source="Mp3Mobile\MediaMobile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MediaMobileUtils" Source="MediaMobileUtils\MediaMobileUtils.csproj" Description="Project file successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaMobileUtils\MediaMobileUtils.csproj">
+</Event><Event ErrorLevel="0" Project="MediaMobileUtils" Source="MediaMobileUtils\KeyCatcher.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaMobileUtils\KeyCatcher.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobileUtils" Source="MediaMobileUtils\LibraryUtilities.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaMobileUtils\LibraryUtilities.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobileUtils" Source="MediaMobileUtils\MediaMobileConfig.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaMobileUtils\MediaMobileConfig.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobileUtils" Source="MediaMobileUtils\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaMobileUtils\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MediaMobileUtils" Source="MediaMobileUtils\MediaMobileUtils.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MediaMobileUtils" Source="MediaMobileUtils\MediaMobileUtils.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SerialLCDInterface" Source="..\..\SoftDev-PreSVN\Drivers\Nexus\SerialLCDInterface\SerialLCDInterface\SerialLCDInterface.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="SerialLCDInterface" Source="..\..\SoftDev-PreSVN\Drivers\Nexus\SerialLCDInterface\SerialLCDInterface\SerialLCDInterface.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\MediaLibrary.csproj" Description="Project file successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\MediaLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\MediaLibrary.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\MediaLibrary.cs">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\MediaObjects.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\MediaObjects.cs">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\MediaPlaylist.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\MediaPlaylist.cs">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\PlaylistSchema.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\PlaylistSchema.cs">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Playlist.xsd" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Playlist.xsd">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Playlist.xsx" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Playlist.xsx">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Properties\Settings.settings" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Playlists\Library.wii" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Playlists\Library.wii">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Playlists\MM.wi3" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Playlists\MM.wi3">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Playlists\De La Soul.wi3" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Playlists\De La Soul.wi3">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\Playlists\Favorites.wi3" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\MediaLibrary\Playlists\Favorites.wi3">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\MediaLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MediaLibrary" Source="MediaLibrary\MediaLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AdvancedControls" Source="AdvancedControls\AdvancedControls\AdvancedControls.csproj" Description="Project file successfully backed up as C:\!mypage\Mp3Mobile\Backup\AdvancedControls\AdvancedControls\AdvancedControls.csproj">
+</Event><Event ErrorLevel="0" Project="AdvancedControls" Source="AdvancedControls\AdvancedControls\HandelFormMove.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\AdvancedControls\AdvancedControls\HandelFormMove.cs">
+</Event><Event ErrorLevel="0" Project="AdvancedControls" Source="AdvancedControls\AdvancedControls\HandelFormMove.Designer.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\AdvancedControls\AdvancedControls\HandelFormMove.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdvancedControls" Source="AdvancedControls\AdvancedControls\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\!mypage\Mp3Mobile\Backup\AdvancedControls\AdvancedControls\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AdvancedControls" Source="AdvancedControls\AdvancedControls\AdvancedControls.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AdvancedControls" Source="AdvancedControls\AdvancedControls\AdvancedControls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Mp3Mobile.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Mp3Mobile.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MediaMobile" Source="Mp3Mobile\MediaMobile.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MediaMobileUtils" Source="MediaMobileUtils\MediaMobileUtils.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MediaLibrary" Source="MediaLibrary\MediaLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AdvancedControls" Source="AdvancedControls\AdvancedControls\AdvancedControls.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

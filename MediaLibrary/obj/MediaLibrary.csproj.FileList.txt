@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\MediaLibrary.dll
+bin\Release\MediaLibrary.pdb
+bin\Release\MediaMobileUtils.dll
+bin\Release\UltraID3Lib.dll
+bin\Release\MediaMobileUtils.pdb
+obj\Release\MediaLibrary.dll
+obj\Release\MediaLibrary.pdb
+bin\Debug\MediaLibrary.dll
+bin\Debug\MediaLibrary.pdb
+bin\Debug\MediaMobileUtils.dll
+bin\Debug\UltraID3Lib.dll
+bin\Debug\MediaMobileUtils.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MediaLibrary.dll
+obj\Debug\MediaLibrary.pdb

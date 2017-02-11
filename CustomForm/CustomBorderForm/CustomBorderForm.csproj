@@ -1,0 +1,174 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{62449834-C53C-49ED-B792-DE66CA227F48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kobush.Windows.Forms</RootNamespace>
+    <AssemblyName>CustomBorderForm</AssemblyName>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;DEBUGFORM</DefineConstants>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomBorderForm.cs">
+    </Compile>
+    <Compile Include="DemoForm.cs">
+      <SubType>form</SubType>
+    </Compile>
+    <Compile Include="DemoForm.Designer.cs">
+      <DependentUpon>DemoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrawUtil.cs" />
+    <Compile Include="FormStyle.cs" />
+    <Compile Include="FormStyleEditor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormStyleEditor.Designer.cs">
+      <DependentUpon>FormStyleEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStyleEditorControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormStyleEditorControl.Designer.cs">
+      <DependentUpon>FormStyleEditorControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWithNonClientArea.cs">
+    </Compile>
+    <Compile Include="LonghornForm.cs">
+    </Compile>
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DemoForm.resx">
+      <DependentUpon>DemoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStyleEditorControl.resx">
+      <DependentUpon>FormStyleEditorControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RestorePressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderBottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderBottomLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderBottomRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderTop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderTopLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorderTopRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseHot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClosePressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeDisabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeHot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizePressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeDisabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeHot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizePressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RestoreDisabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="Resources\RestoreHot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseDisabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Border.png" />
+    <None Include="WMP11.fsl">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
+</Project>

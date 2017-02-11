@@ -1,0 +1,5 @@
+C:\!mypage\Mp3Mobile\MediaMobileUtils\bin\Release\MediaMobileUtils.dll
+C:\!mypage\Mp3Mobile\MediaMobileUtils\bin\Release\MediaMobileUtils.pdb
+C:\!mypage\Mp3Mobile\MediaMobileUtils\obj\Release\ResolveAssemblyReference.cache
+C:\!mypage\Mp3Mobile\MediaMobileUtils\obj\Release\MediaMobileUtils.dll
+C:\!mypage\Mp3Mobile\MediaMobileUtils\obj\Release\MediaMobileUtils.pdb

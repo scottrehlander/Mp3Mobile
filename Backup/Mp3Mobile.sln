@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaMobile", "Mp3Mobile\MediaMobile.csproj", "{0B6346B8-3A22-4AA2-8280-7749035E085B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaMobileUtils", "MediaMobileUtils\MediaMobileUtils.csproj", "{9C8CADD8-505D-452C-8D57-2C4E08057850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialLCDInterface", "..\..\SoftDev-PreSVN\Drivers\Nexus\SerialLCDInterface\SerialLCDInterface\SerialLCDInterface.csproj", "{15791388-F906-4016-890D-7682AD1C6B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaLibrary", "MediaLibrary\MediaLibrary.csproj", "{871357D7-8ACE-420C-8F5B-4A64EACAE9E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedControls", "AdvancedControls\AdvancedControls\AdvancedControls.csproj", "{5DA78496-9B59-4B41-A9EE-EBC77A384DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6346B8-3A22-4AA2-8280-7749035E085B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6346B8-3A22-4AA2-8280-7749035E085B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6346B8-3A22-4AA2-8280-7749035E085B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6346B8-3A22-4AA2-8280-7749035E085B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8CADD8-505D-452C-8D57-2C4E08057850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8CADD8-505D-452C-8D57-2C4E08057850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8CADD8-505D-452C-8D57-2C4E08057850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8CADD8-505D-452C-8D57-2C4E08057850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15791388-F906-4016-890D-7682AD1C6B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15791388-F906-4016-890D-7682AD1C6B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15791388-F906-4016-890D-7682AD1C6B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15791388-F906-4016-890D-7682AD1C6B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871357D7-8ACE-420C-8F5B-4A64EACAE9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871357D7-8ACE-420C-8F5B-4A64EACAE9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871357D7-8ACE-420C-8F5B-4A64EACAE9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871357D7-8ACE-420C-8F5B-4A64EACAE9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA78496-9B59-4B41-A9EE-EBC77A384DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA78496-9B59-4B41-A9EE-EBC77A384DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA78496-9B59-4B41-A9EE-EBC77A384DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA78496-9B59-4B41-A9EE-EBC77A384DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

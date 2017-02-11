@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlaylistElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlaylistName>Favorites</PlaylistName>
+  <MediaObjectElement>
+    <Filename>C:\Users\srehlander\Documents\Downloads\3 Feet High and Rising\01 Intro.mp3</Filename>
+  </MediaObjectElement>
+  <EmbeddedPlaylistElement>
+    <PlaylistFilename>C:\!mypage\Mp3Mobile\MediaLibrary\Playlists\De La Soul.wi3</PlaylistFilename>
+  </EmbeddedPlaylistElement>
+</PlaylistElement>

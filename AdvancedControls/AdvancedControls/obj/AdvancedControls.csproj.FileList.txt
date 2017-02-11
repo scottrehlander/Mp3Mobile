@@ -1,0 +1,10 @@
+bin\Debug\AdvancedControls.dll
+bin\Debug\AdvancedControls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AdvancedControls.dll
+obj\Debug\AdvancedControls.pdb
+bin\Release\AdvancedControls.dll
+bin\Release\AdvancedControls.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AdvancedControls.dll
+obj\Release\AdvancedControls.pdb

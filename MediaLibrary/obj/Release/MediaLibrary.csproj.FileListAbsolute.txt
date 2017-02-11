@@ -1,0 +1,8 @@
+C:\!mypage\Mp3Mobile\MediaLibrary\bin\Release\MediaLibrary.dll
+C:\!mypage\Mp3Mobile\MediaLibrary\bin\Release\MediaLibrary.pdb
+C:\!mypage\Mp3Mobile\MediaLibrary\bin\Release\MediaMobileUtils.dll
+C:\!mypage\Mp3Mobile\MediaLibrary\bin\Release\UltraID3Lib.dll
+C:\!mypage\Mp3Mobile\MediaLibrary\bin\Release\MediaMobileUtils.pdb
+C:\!mypage\Mp3Mobile\MediaLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\!mypage\Mp3Mobile\MediaLibrary\obj\Release\MediaLibrary.dll
+C:\!mypage\Mp3Mobile\MediaLibrary\obj\Release\MediaLibrary.pdb
